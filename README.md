@@ -24,8 +24,10 @@ Hệ thống phát hiện từ khóa nhạy cảm, chấm điểm mức độ r�
 - WordPress Plugin
 
 ## Demo
-![Giao diện](screenshots/home.png)
-![Kết quả](screenshots/result.png)
+![Giao diện](<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/4ea07227-fc9f-4705-911e-f1bdaa61f12d" />
+)
+![Kết quả](<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/d8dfb864-1da3-4fef-b685-1c4bed3c3785" />
+)
 
 ## Tác giả
 - Họ tên: Nguyễn Hữu Trọng
